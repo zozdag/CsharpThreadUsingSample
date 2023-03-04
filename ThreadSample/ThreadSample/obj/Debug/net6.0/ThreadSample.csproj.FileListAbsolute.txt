@@ -1,0 +1,15 @@
+C:\Githubrepos\CsharpThreadUsingSample\ThreadSample\ThreadSample\bin\Debug\net6.0\ThreadSample.exe
+C:\Githubrepos\CsharpThreadUsingSample\ThreadSample\ThreadSample\bin\Debug\net6.0\ThreadSample.deps.json
+C:\Githubrepos\CsharpThreadUsingSample\ThreadSample\ThreadSample\bin\Debug\net6.0\ThreadSample.runtimeconfig.json
+C:\Githubrepos\CsharpThreadUsingSample\ThreadSample\ThreadSample\bin\Debug\net6.0\ThreadSample.dll
+C:\Githubrepos\CsharpThreadUsingSample\ThreadSample\ThreadSample\bin\Debug\net6.0\ThreadSample.pdb
+C:\Githubrepos\CsharpThreadUsingSample\ThreadSample\ThreadSample\obj\Debug\net6.0\ThreadSample.csproj.AssemblyReference.cache
+C:\Githubrepos\CsharpThreadUsingSample\ThreadSample\ThreadSample\obj\Debug\net6.0\ThreadSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Githubrepos\CsharpThreadUsingSample\ThreadSample\ThreadSample\obj\Debug\net6.0\ThreadSample.AssemblyInfoInputs.cache
+C:\Githubrepos\CsharpThreadUsingSample\ThreadSample\ThreadSample\obj\Debug\net6.0\ThreadSample.AssemblyInfo.cs
+C:\Githubrepos\CsharpThreadUsingSample\ThreadSample\ThreadSample\obj\Debug\net6.0\ThreadSample.csproj.CoreCompileInputs.cache
+C:\Githubrepos\CsharpThreadUsingSample\ThreadSample\ThreadSample\obj\Debug\net6.0\ThreadSample.dll
+C:\Githubrepos\CsharpThreadUsingSample\ThreadSample\ThreadSample\obj\Debug\net6.0\refint\ThreadSample.dll
+C:\Githubrepos\CsharpThreadUsingSample\ThreadSample\ThreadSample\obj\Debug\net6.0\ThreadSample.pdb
+C:\Githubrepos\CsharpThreadUsingSample\ThreadSample\ThreadSample\obj\Debug\net6.0\ThreadSample.genruntimeconfig.cache
+C:\Githubrepos\CsharpThreadUsingSample\ThreadSample\ThreadSample\obj\Debug\net6.0\ref\ThreadSample.dll
